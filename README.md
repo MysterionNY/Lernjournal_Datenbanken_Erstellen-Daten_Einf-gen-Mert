@@ -22,3 +22,8 @@
 #### Aufgabe 1
 * [Tourenplaner][tourenplaner]
 #### Aufgabe 2
+
+
+
+
+[tourenplaner]: https://github.com/MysterionNY/Lernjournal_Datenbanken_Erstellen-Daten_Einf-gen-Mert/blob/main/Aufgaben/Aufgabe_1_Tourenplaner.md
