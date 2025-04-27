@@ -22,8 +22,10 @@
 #### Aufgabe 1
 * [Tourenplaner][tourenplaner]
 #### Aufgabe 2
-
-
+Tag 1: Aufgabe 1-2
+Tag 2: Aufgabe 3-9
+Tag 3: Aufgabe 10-13
+Tag 4: 
 
 
 [tourenplaner]: https://github.com/MysterionNY/Lernjournal_Datenbanken_Erstellen-Daten_Einf-gen-Mert/blob/main/Aufgaben/Aufgabe_1_Tourenplaner.md
