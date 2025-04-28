@@ -12,8 +12,6 @@ Ein persönliches Lernjournal für das Modul **M164 – Datenbanken: Erstellen &
   - [Tag 3 – Datendefinition & -manipulation](#tag-3--datendefinition--manipulation)
   - [Tag 4 – Mengenlehre & Joins](#tag-4--mengenlehre--joins)
   - [Tag 5 – Datenintegrität & Aggregation](#tag-5--datenintegrität--aggregation)
-- [Bilder](#bilder)
-- [Credits](#credits)
 
 ---
 
