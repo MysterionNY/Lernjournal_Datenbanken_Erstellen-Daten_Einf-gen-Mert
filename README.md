@@ -1,7 +1,5 @@
 # Lernjournal_M164_Mert_AP24a
 
-Ein persönliches Lernjournal für das Modul **M164 – Datenbanken: Erstellen & Daten einfügen**. Hier findest du alle Theorie-Notizen, SQL-Skripte und Aufgabenlösungen geordnet nach den Unterrichtstagen.
-
 ## Inhaltsverzeichnis
 - [Was ist SQL?](#was-ist-sql)
 - [Wer hat SQL erfunden?](#wer-hat-sql-erfunden)
@@ -12,6 +10,16 @@ Ein persönliches Lernjournal für das Modul **M164 – Datenbanken: Erstellen &
   - [Tag 3 – Datendefinition & -manipulation](#tag-3--datendefinition--manipulation)
   - [Tag 4 – Mengenlehre & Joins](#tag-4--mengenlehre--joins)
   - [Tag 5 – Datenintegrität & Aggregation](#tag-5--datenintegrität--aggregation)
+  - [Tag 6 – Subqueries](#tag-6--subqueries)
+  - [Tag 7 – Datensicherung](#tag-7--datensicherung)
+  - [Tag 8 – Praxisarbeit](#tag-8--praxisarbeit)
+  - [Tag 9 – CTE & Advanced Queries](#tag-9--cte--advanced-queries)
+
+---
+
+## Was ist SQL?
+
+**SQL (Structured Query Language)** ist eine deklarative Sprache, mit der relationale Datenbanken definiert (*Data Definition Language – DDL*), abgefragt (*Data Query Language – DQL*) und manipuliert (*Data Manipulation Language – DML*) werd
 
 ---
 
@@ -77,3 +85,24 @@ SQL geht auf die Sprache **SEQUEL** zurück, die 1974 von **Donald D. Chamberlin
 | 21 | ORDER BY | [Aufgabe 21](Aufgaben/Aufgabe_21_order.md) |
 | 22 | HAVING | [Aufgabe 22](Aufgaben/Aufgabe_22_select_having.md) |
 | 23 | HAVING (Advanced) | [Aufgabe 23](Aufgaben/Aufgabe_23_Select_having_2.md) |
+
+### Tag 6 – Subqueries
+| # | Thema | Datei |
+|---|-------|-------|
+| 24 | Skalare Subquery | [Aufgabe 24](Aufgaben/Aufgabe_24_Skalara_Subquery.sql) |
+| 25 | Subquery nach FROM | [Aufgabe 25](Aufgaben/Aufgabe_25_From_Subquery.sql) |
+
+### Tag 7 – Datensicherung
+| # | Thema | Datei |
+|---|-------|-------|
+| 26 | Datensicherung | [Aufgabe 26](Aufgaben/Aufgabe_26_Datensicherung.md) |
+
+### Tag 8 – Praxisarbeit
+| # | Thema | Datei |
+|---|-------|-------|
+| 27 | Praxisarbeit | [Aufgabe 27](Aufgaben/Aufgabe_27_Praxisarbeit.md) |
+
+### Tag 9 – CTE & Advanced Queries
+| # | Thema | Datei |
+|---|-------|-------|
+| 28 | Common Table Expressions (CTE) | [Aufgabe 28](Aufgaben/Aufgabe_28_CTE.md) |
